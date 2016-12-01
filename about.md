@@ -8,8 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+- I'm not only coding, but thinking. 
+- Reading and Cooking when I'm out of work.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[BruceHurrican](mailto:BruceHurrican@foxmail.com)
